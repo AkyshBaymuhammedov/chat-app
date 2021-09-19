@@ -17,7 +17,7 @@ public class SendEmail{
     static String host = "smtp.gmail.com";
     static String port = "587";
     static String userName = "gaminglaptopshop";
-    static String password = "Trashpanda";
+    static String password = "123";
 
     public static void sendPlainTextEmail(String toAddress, String subject, String message)
             throws AddressException, MessagingException {
