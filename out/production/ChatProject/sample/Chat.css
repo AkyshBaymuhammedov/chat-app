@@ -1,0 +1,37 @@
+.root{
+    -fx-font-size: 10px;
+    -fx-font-weight: normal;
+}
+.label{
+    -fx-background-color: greenyellow;
+    -fx-padding: 10,10,10,10;
+    -fx-background-radius: 10px;
+    -fx-font-size: 13px;
+    -fx-max-width: 250;
+    -fx-wrap-text: true;
+}
+
+.label-custom{
+    -fx-background-color: -fx-background;
+    -fx-font-size: 13px;
+    -fx-wrap-text: false;
+    -fx-alignment: center;
+    -fx-max-width: 320;
+}
+.label-custom2{
+    -fx-background-color: lightgrey;
+    -fx-max-width: 250;
+}
+
+.label-typing{
+    -fx-max-width: 100;
+    -fx-max-height: 20;
+    -fx-background-radius: 10px;
+}
+
+.button{
+    -fx-font-size: 12px;
+}
+.text-field{
+    -fx-font-size: 12px;
+}

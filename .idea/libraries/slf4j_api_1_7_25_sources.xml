@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="slf4j-api-1.7.25-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../java libraries/slf4j-1.7.25/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../java libraries/slf4j-1.7.25/slf4j-ext-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../java libraries/slf4j-1.7.25/slf4j-jcl-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../java libraries/slf4j-1.7.25/slf4j-jdk14-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../java libraries/slf4j-1.7.25/slf4j-log4j12-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../java libraries/slf4j-1.7.25/slf4j-api-1.7.25-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../java libraries/slf4j-1.7.25/slf4j-ext-1.7.25-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../java libraries/slf4j-1.7.25/slf4j-jcl-1.7.25-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../java libraries/slf4j-1.7.25/slf4j-jdk14-1.7.25-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../java libraries/slf4j-1.7.25/slf4j-log4j12-1.7.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

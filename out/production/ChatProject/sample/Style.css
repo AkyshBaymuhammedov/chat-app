@@ -1,0 +1,51 @@
+.root{
+    -fx-background-color: #FFFFFF;
+    -fx-font-size: 10pt;
+}
+
+.label{
+    -fx-font-weight: bold;
+}
+
+.label-custom{
+    -fx-font-weight: bold;
+    -fx-border-color: gainsboro;
+    -fx-min-width: 335;
+}
+
+
+.button{
+    -fx-min-width: 50;
+    -fx-background-radius: 12px;
+}
+.button-custom{
+    -fx-min-width: 30;
+}
+
+.button-custom2{
+    -fx-min-width: 365;
+    -fx-background-color: #FFFFFF;
+    -fx-alignment: center-left;
+}
+
+.button-custom3{
+    -fx-min-width: 300;
+    -fx-background-color: #FFFFFF;
+    -fx-alignment: center-left;
+}
+.button-custom4{
+    -fx-min-width: 50;
+    -fx-background-color: #FFFFFF;
+    -fx-alignment: center-left;
+}
+
+.custom{
+    -fx-background-color: indianred;
+}
+
+.text-field{
+    -fx-max-width: 250;
+}
+
+
+

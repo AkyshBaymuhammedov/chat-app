@@ -1,0 +1,19 @@
+.button{
+    -fx-pref-width: 50;
+    -fx-background-color: midnightblue;
+    -fx-font-size: 12;
+    -fx-text-fill: #FFFFFF;
+}
+
+.button-custom{
+    -fx-pref-width: 360;
+    -fx-background-color: #FFFFFF;
+    -fx-text-fill: darkblue;
+    -fx-alignment: center-left;
+    -fx-background-radius: 5px;
+}
+
+.button-custom1{
+    -fx-background-radius: 50px;
+    -fx-background-color: indianred;
+}
