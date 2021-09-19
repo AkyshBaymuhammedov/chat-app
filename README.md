@@ -1,2 +1,2 @@
 # chat-app
-![Alt text](screenshot.png?raw=true)
+![Alt text](/screenshot.png?raw=true)
