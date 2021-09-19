@@ -1,2 +1,2 @@
 # chat-app
-![Alt text](/screenshot.png?raw=true)
+![Alt text](https://github.com/AkyshBaymuhammedov/chat-app/blob/main/screenshot.PNG)
